@@ -37,8 +37,8 @@ I'm a multidisciplinary professional with a foundation in **architecture**, over
 I'm always open to collaboration, learning opportunities, and exciting conversations about science, data, and technology.  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourname)  
-- 🌍 [Portfolio Website](https://yourwebsite.com) *(coming soon)*  
-- 📧 Email: your.email@example.com  
+- 🌍 [Portfolio Website] *(coming soon)*  
+- 📧 Email: ianmaluleka@gmail.com  
 
 ---  
   
