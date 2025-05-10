@@ -5,7 +5,7 @@
 - 📜 **Certified in Data Analytics**  
 - 🏗️ **5+ years working with BIM** – 3D modeling, digital twins, point cloud data, Revit, Navisworks  
 - 💡 **Passionate about** combining data, science, and technology to explore complex systems and uncover insights
-- 🔍 **I make novelty projects focusing on Architectural modelling , Financial analysis(Stock and Forex Markets) as well as Computational modeling. 
+- 🔍 **I make novelty projects focusing on Architectural modelling , Financial analysis(Stock and Forex Markets) as well as Computational modeling. **
 
 ---  
 
