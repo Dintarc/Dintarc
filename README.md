@@ -1,11 +1,4 @@
 # 💫 About Me:
-👋 Hi, I'm Ian Maluleka  
-🎓 Data Analyst | 📊 Data Scientist in Progress | 🧠 Physics & Math Enthusiast | 🏗️ BIM Specialist  
-
----  
-
-I'm a multidisciplinary professional with a foundation in **architecture**, over **5 years of experience in Building Information Modelling (BIM)**, and a growing career in **data science and analytics**. I'm currently pursuing a **degree in Mathematics and Physics**, building on my deep love for science, data, and technology.  
-
 ---  
 
 ## 💼 Background & Expertise  
