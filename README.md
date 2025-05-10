@@ -1,6 +1,5 @@
 # 💫 Hi, I'm Ian 
 
-## 💼 Background & Expertise  
 - 🎓 **Physics and Mathematics Student with a Degree in Architecture**  
 - 📜 **Certified in Data Analytics**  
 - 🏗️ **5+ years working with BIM** – 3D modeling, digital twins, point cloud data, Revit, Navisworks  
